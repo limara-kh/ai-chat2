@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(225, 225, 225);
+    margin: 100px;
+    text-align: center;
+}
+.add-button{
+    color: azure;
+    background-color: green;
+    border: 2px solid black;
+}
+.clear-button{
+    color: black;
+    background-color: red;
+    border: 2px solid black;
+}
+.input-box{
+    border: 2px solid black;
+}
